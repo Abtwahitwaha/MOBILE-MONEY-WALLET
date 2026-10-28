@@ -1,0 +1,22 @@
+# secrets and local config
+.env
+*.env
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Flutter (inside app/)
+app/.dart_tool/
+app/build/
