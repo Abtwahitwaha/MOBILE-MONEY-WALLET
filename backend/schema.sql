@@ -1,6 +1,4 @@
 -- Mobile Money Wallet: database schema (Phase 2).
--- Run this whole file in MySQL Workbench (lightning-bolt button).
--- The SQLAlchemy models in models.py match these tables exactly.
 
 CREATE DATABASE IF NOT EXISTS mobile_money_wallet;
 USE mobile_money_wallet;
