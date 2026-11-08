@@ -10,7 +10,7 @@ It Keeps a record of your spending.
 ## What this app DOES NOT DO
 
 It does not buy real airtime.
-It does not connect to MTN MoMo API
-It does not move real money 
+It does not connect to MTN MoMo API.
+It does not move real money.
 
 
