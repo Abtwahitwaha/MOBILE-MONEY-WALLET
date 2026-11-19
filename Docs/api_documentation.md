@@ -1,3 +1,5 @@
+BY NALWANGA SHADIA
+
 # Mobile Money Wallet API: Endpoint Documentation
 
 Interactive docs (Swagger) are served by the running server at `http://127.0.0.1:8000/docs`.
