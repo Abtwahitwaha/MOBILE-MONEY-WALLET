@@ -1,4 +1,4 @@
-// Paste this into https://dbdiagram.io to draw the ERD image (export as docs/erd.png).
+
 Table users {
   user_id int [pk, increment]
   full_name varchar(100) [not null]
