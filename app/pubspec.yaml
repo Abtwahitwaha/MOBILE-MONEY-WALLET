@@ -1,0 +1,26 @@
+name: mobile_money_wallet
+description: Mobile Money Wallet - Flutter app for the FastAPI backend.
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.0
+  image_picker: ^1.0.7      # profile photo (kept on the phone only)
+  path_provider: ^2.1.2     # where the profile photo file is stored
+  crypto: ^3.0.3            # hashes the local security PIN
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/providers/
